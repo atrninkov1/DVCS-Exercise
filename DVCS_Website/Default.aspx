@@ -11,6 +11,7 @@
     <div class="row">
         <div class="col-md-4">
             <h2>Getting started</h2>
+			<p>I am alex</p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
